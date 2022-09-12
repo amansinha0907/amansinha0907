@@ -1,5 +1,9 @@
+<body>
 <h1 align="center">Hi 👋, I'm Aman Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansinha0907&label=Profile%20views&color=0e75b6&style=flat" alt="amansinha0907" /> </p>
 
@@ -20,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansinha0907&show_icons=true&locale=en" alt="amansinha0907" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansinha0907&" alt="amansinha0907" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansinha0907&" alt="amansinha0907" /></p></body>
