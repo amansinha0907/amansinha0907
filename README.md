@@ -1,17 +1,18 @@
 <body>
-<h1 align="center">Hi 👋, I'm Aman Sinha</h1>
+<h1 align="center"><img src="https://github.com/amansinha0907/amansinha0907/blob/main/4AIB.gif" width="50"> I'm Aman Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
 <div id="header" align="center">
- <img width="200" src="https://github.com/amansinha0907/amansinha0907/blob/main/IMG_20220913_220129.jpg">
+ <img width="200" src="https://sdk.bitmoji.com/render/panel/10219611-100426701404_2-s5-v1.png?transparent=1&palette=1&scale=2">
  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
 </div>
-<img src="https://github.com/amansinha0907/amansinha0907/blob/main/4AIB.gif" width="50"> <i> &nbsp;About </i>
+<!--<img src="https://github.com/amansinha0907/amansinha0907/blob/main/4AIB.gif" width="50"> <i> &nbsp;About </i>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansinha0907&label=Profile%20views&color=0e75b6&style=flat" alt="amansinha0907" /> </p>
 
-<img alt="Night Coding" src="https://github.com/amansinha0907/amansinha0907/blob/main/giphy.gif" width="250px" align="right"/>
+<img alt="Night Coding" src="https://github.com/amansinha0907/amansinha0907/blob/main/giphy.gif" width="200px" align="right"/>
 
-<p align="left"> <a href="https://twitter.com/amansinha0907" target="blank"><img src="https://img.shields.io/twitter/follow/amansinha0907?logo=twitter&style=for-the-badge" alt="amansinha0907" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amansinha0907" target="blank">
+ <img src="https://img.shields.io/twitter/follow/amansinha0907?logo=twitter&style=for-the-badge" alt="amansinha0907" /></a> </p>
 
 - 📫 How to reach me **amansinha0907@gmail.com**
 
