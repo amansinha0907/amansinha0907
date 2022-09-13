@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansinha0907&label=Profile%20views&color=0e75b6&style=flat" alt="amansinha0907" /> </p>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250px" align="right"/>
+<img alt="Night Coding" src="https://github.com/amansinha0907/amansinha0907/blob/main/giphy.gif" width="250px" align="right"/>
 
 <p align="left"> <a href="https://twitter.com/amansinha0907" target="blank"><img src="https://img.shields.io/twitter/follow/amansinha0907?logo=twitter&style=for-the-badge" alt="amansinha0907" /></a> </p>
 
