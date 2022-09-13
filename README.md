@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://github.com/amansinha0907/amansinha0907/blob/main/4AIB.gif" width="50"> I'm Aman Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
 <div id="header" align="center">
- <img width="200" src="https://sdk.bitmoji.com/render/panel/10219611-100426701404_2-s5-v1.png?transparent=1&palette=1&scale=2">
+ <img width="200" src="https://github.com/amansinha0907/amansinha0907/blob/main/sticker.png">
  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
 </div>
 <!--<img src="https://github.com/amansinha0907/amansinha0907/blob/main/4AIB.gif" width="50"> <i> &nbsp;About </i>-->
