@@ -5,7 +5,7 @@
  <img width="200" src="https://github.com/amansinha0907/amansinha0907/blob/main/IMG_20220913_220129.jpg">
  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
 </div>
-<img src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.webp" width="50"> <i> &nbsp;About </i>
+<img src="https://github.com/amansinha0907/amansinha0907/blob/main/4AIB.gif" width="50"> <i> &nbsp;About </i>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansinha0907&label=Profile%20views&color=0e75b6&style=flat" alt="amansinha0907" /> </p>
 
