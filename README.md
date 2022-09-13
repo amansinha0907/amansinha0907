@@ -7,7 +7,7 @@
 </div>
 <!--<img src="https://github.com/amansinha0907/amansinha0907/blob/main/4AIB.gif" width="50"> <i> &nbsp;About </i>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansinha0907&label=Profile%20views&color=0e75b6&style=flat" alt="amansinha0907" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansinha0907&label=Profile%20views&color=0e75b6&style=flat" alt="amansinha0907" /> </p>-->
 
 <img alt="Night Coding" src="https://github.com/amansinha0907/amansinha0907/blob/main/giphy.gif" width="180px" align="right"/>
 
