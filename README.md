@@ -9,12 +9,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansinha0907&label=Profile%20views&color=0e75b6&style=flat" alt="amansinha0907" /> </p>
 
-<img alt="Night Coding" src="https://github.com/amansinha0907/amansinha0907/blob/main/giphy.gif" width="200px" align="right"/>
+<img alt="Night Coding" src="https://github.com/amansinha0907/amansinha0907/blob/main/giphy.gif" width="180px" align="right"/>
 
 <p align="left"> <a href="https://twitter.com/amansinha0907" target="blank">
- <img src="https://img.shields.io/twitter/follow/amansinha0907?logo=twitter&style=for-the-badge" alt="amansinha0907" /></a> </p>
+<!-- <img src="https://img.shields.io/twitter/follow/amansinha0907?logo=twitter&style=for-the-badge" alt="amansinha0907" /></a> --></p>
 
-- 📫 How to reach me **amansinha0907@gmail.com**
+📫<a> How to reach me </a>**amansinha0907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
