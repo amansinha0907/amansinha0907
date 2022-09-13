@@ -14,12 +14,15 @@
 <p align="left"> <a href="https://twitter.com/amansinha0907" target="blank">
 <!-- <img src="https://img.shields.io/twitter/follow/amansinha0907?logo=twitter&style=for-the-badge" alt="amansinha0907" /></a> --></p>
 
-📫<a> How to reach me </a>**amansinha0907@gmail.com**
 
+<a>💡  I like to explore new technologies and develop software solutions and quick hacks.<br>
+🎓  I'm currently doing Masters in Computer Applications (MCA) from KIET GROUP of INSTITUTIONS, GHAZIABAD.</a>
 <h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
 <a href="https://twitter.com/amansinha0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amansinha0907" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-sinha-598048213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-sinha-598048213/" height="30" width="40" /></a>
+ <a href="amansinha0907@gmail.com" target="blank"><img align="center" src="https://github.com/amansinha0907/amansinha0907/blob/main/gmail.png" alt="amansinha0907@gmail.com" height="30" width="40" /></a>
 </p>
 
 
