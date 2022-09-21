@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/amansinha0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amansinha0907" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-sinha-598048213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-sinha-598048213/" height="30" width="40" /></a>
- <a href="https://mail.google.com/mail/u/0/?tab=mm#inbox?compose=GTvVlcSKkHnnrnLMDsxrmqZJCvXWWsHrcQhZnXDQDDVZVmVrqdcPVsSbxmzvqqbvpgmqBZRqSTlCT" target="blank"><img align="center" src="https://github.com/amansinha0907/amansinha0907/blob/main/gmail.png" alt="amansinha0907@gmail.com" height="30" width="40" /></a>
+ <a href="mailto:amansinha0907@gmail.com" target="blank"><img align="center" src="https://github.com/amansinha0907/amansinha0907/blob/main/gmail.png" alt="amansinha0907@gmail.com" height="30" width="40" /></a>
 </p>
 
 
