@@ -13,12 +13,19 @@
 
 <p align="left"> <a href="https://twitter.com/amansinha0907" target="blank">
 <!-- <img src="https://img.shields.io/twitter/follow/amansinha0907?logo=twitter&style=for-the-badge" alt="amansinha0907" /></a> --></p>
+✍️ &nbsp;I am working as data analyst in NS Matrix private Limited, New Delhi.<br>
+💡 &nbsp;I enjoy exploring data-driven technologies and creating analytical solutions for actionable insights.<br>
+🎓 &nbsp;I have compleated my Masters in **Computer Applications (MCA) from KIET GROUP of INSTITUTIONS, <BR> &nbsp;&nbsp; &nbsp; &nbsp;  GHAZIABAD.<br>
+🌱 &nbsp;I'm on track for learning more about ** Excel, SQL, Python, Power BI for data analytics.<br>
+✍️ &nbsp;In my free time, I learn new tools & techniques .<br>
+✉️ &nbsp;You can shoot me an email at amansinha0907@gmail.com I'll try to respond as soon as I can.<br>
+📄 &nbsp;Please have a look at my <a href="https://github.com/amansinha0907/Resume/blob/main/Aman%20Sinha%20New%20(1).pdf">Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 
-<a>💡  I enjoy exploring data-driven technologies and creating analytical solutions for actionable insights.<br>
+<!-- <a>💡  I enjoy exploring data-driven technologies and creating analytical solutions for actionable insights.<br>
 
 🎓  I have completed my Master's in Computer Applications (MCA) from KIET Group of Institutions, Ghaziabad.</a>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>-->
  
 <p align="left">
 <a href="https://twitter.com/amansinha0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amansinha0907" height="30" width="40" /></a>
