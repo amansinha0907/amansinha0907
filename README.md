@@ -15,8 +15,9 @@
 <!-- <img src="https://img.shields.io/twitter/follow/amansinha0907?logo=twitter&style=for-the-badge" alt="amansinha0907" /></a> --></p>
 
 
-<a>💡  I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓  I'm currently doing Masters in Computer Applications (MCA) from KIET GROUP of INSTITUTIONS, GHAZIABAD.</a>
+<a>💡  I enjoy exploring data-driven technologies and creating analytical solutions for actionable insights.<br>
+
+🎓  I have completed my Master's in Computer Applications (MCA) from KIET Group of Institutions, Ghaziabad.</a>
 <h3 align="left">Connect with me:</h3>
  
 <p align="left">
